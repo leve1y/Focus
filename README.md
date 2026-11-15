@@ -13,7 +13,7 @@ An application for Android devices that allows you to add a customizable class s
 *  **Daily Schedule:** Set a class schedule for each day *(configured manually)*.
 *  **Custom Timings:** Set start and end times individually for each class.
 *  **Break Timers:** Configure break durations between classes.
-*  **Live Countdown:** View directly on the widget how much time is left until the start/end of a class or break.
+*  **Live Countdown:** View directly on the widget how much time is left until the start/end of a class or break. 
 
 ### 📱 Requirements
 * **Android 8.0+** (API 26)
