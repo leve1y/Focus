@@ -1,6 +1,10 @@
 ![Android](https://img.shields.io/badge/Android-8.0%2B%20(API%2026)-3DDC84?style=flat&logo=android&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat)
 
+Русский -
+Украинский - 
+Закарпатськый - 
+
 > [!WARNING]
 > **Focus is currently in beta, and it's a fan project.** 
 > I primarily made this for myself, and the app was tested on a **Redmi 15C (Android 16)**. On many smartphones, this app might either not work or work incorrectly. 
@@ -15,6 +19,6 @@ An application for Android devices that allows you to add a customizable class s
 *  **Break Timers:** Configure break durations between classes.
 *  **Live Countdown:** View directly on the widget how much time is left until the start/end of a class or break. 
 
-### 📱 Requirements
+### Requirements
 * **Android 8.0+** (API 26)
 * *That's all.*
