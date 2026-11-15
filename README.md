@@ -1,9 +1,7 @@
 ![Android](https://img.shields.io/badge/Android-8.0%2B%20(API%2026)-3DDC84?style=flat&logo=android&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat)
 
-Русский -
-Украинский - 
-Закарпатськый - 
+[Русский](README-ru.md) • [Українська](README-uk.md) • [Закарпатська](README-rue.md)
 
 > [!WARNING]
 > **Focus is currently in beta, and it's a fan project.** 
